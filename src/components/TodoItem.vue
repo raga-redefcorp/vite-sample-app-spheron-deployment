@@ -20,7 +20,7 @@ export default defineComponent({
     },
     btn: {
       type: String,
-      default: 'Done'
+      default: 'Done!'
     },
   },
   emits: ['confirm']
